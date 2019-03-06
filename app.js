@@ -1,5 +1,5 @@
 
-var gifs = ["GALAXY", "ALIENS", "STARS", "PLANNET", "EARTH"];
+var gifs = ["GALAXY", "ALIENS", "STARS", "PLANET", "EARTH"];
 
 
 
